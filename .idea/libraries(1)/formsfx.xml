@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="formsfx">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/dlsc/formsfx/formsfx-core/11.5.0/formsfx-core-11.5.0.jar!/com/dlsc/formsfx" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
